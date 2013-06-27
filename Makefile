@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS =
+CFLAGS = -g
 OBJS = dnsfunctions.o
 
 all:	dnsfunctions.o
